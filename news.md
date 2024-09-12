@@ -9,4 +9,4 @@
 
 - Надеюсь ни для кого это не окажется сложными задачами, а если же появились вопросы, смело пишите в чате на сервере!
 ![Own house](https://raw.githubusercontent.com/Techduk/console-online/main/images/own_house_12092024.jpg)
-&n8*Запись 12.09.2024*
+&8*Запись 12.09.2024*
